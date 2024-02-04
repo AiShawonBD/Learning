@@ -1,0 +1,2 @@
+B.txt
+Update for git stage check
